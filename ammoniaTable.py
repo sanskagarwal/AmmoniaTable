@@ -600,5 +600,4 @@ s3.grid(column=0,row=8, pady=(5,0))
 #both
 tab_control.pack(expand=1, fill='both')
 window.geometry('900x600')
-window.attributes('-zoomed', True)
 window.mainloop()
